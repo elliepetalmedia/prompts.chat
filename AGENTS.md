@@ -219,23 +219,6 @@ Required in `.env`:
 ```
 DATABASE_URL=           # PostgreSQL connection string
 AUTH_SECRET=            # NextAuth secret key
-```
-
-Optional OAuth (if using those providers):
-```
-AUTH_GITHUB_ID=
-AUTH_GITHUB_SECRET=
-AUTH_GOOGLE_ID=
-AUTH_GOOGLE_SECRET=
-AUTH_AZURE_AD_CLIENT_ID=
-AUTH_AZURE_AD_CLIENT_SECRET=
-AUTH_AZURE_AD_ISSUER=
-```
-
-Optional features:
-```
-OPENAI_API_KEY=         # For AI-powered semantic search
-```
 
 ## Testing
 
