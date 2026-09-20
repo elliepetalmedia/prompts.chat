@@ -27,6 +27,7 @@
     "close": "Close",
     "all": "All",
     "none": "None",
+    "ad": "Ad",
     "moreLines": "+{count} more lines",
     "codeView": "Code",
     "treeView": "Tree",
@@ -1024,45 +1025,8 @@
     }
   },
   "heroIndustries": {
-    "prefix": "or explore by industry",
-    "clickToExplore": "Click to explore",
     "searchPlaceholder": "Search prompts...",
-    "teachers": "Teachers",
-    "developers": "Developers",
-    "marketers": "Marketers",
-    "designers": "Designers",
-    "writers": "Writers",
-    "analysts": "Analysts",
-    "entrepreneurs": "Entrepreneurs",
-    "researchers": "Researchers",
-    "students": "Students",
-    "consultants": "Consultants",
-    "engineers": "Engineers",
-    "creators": "Creators",
-    "lawyers": "Lawyers",
-    "doctors": "Doctors",
-    "nurses": "Nurses",
-    "accountants": "Accountants",
-    "salespeople": "Salespeople",
-    "recruiters": "Recruiters",
-    "managers": "Managers",
-    "executives": "Executives",
-    "freelancers": "Freelancers",
-    "photographers": "Photographers",
-    "musicians": "Musicians",
-    "artists": "Artists",
-    "architects": "Architects",
-    "scientists": "Scientists",
-    "journalists": "Journalists",
-    "editors": "Editors",
-    "translators": "Translators",
-    "coaches": "Coaches",
-    "therapists": "Therapists",
-    "trainers": "Trainers",
-    "chefs": "Chefs",
-    "realtors": "Realtors",
-    "investors": "Investors",
-    "traders": "Traders"
+    "videoTitle": "GitHub Open Source Friday"
   },
   "promptBuilder": {
     "title": "Prompt Building Agent",
@@ -1488,6 +1452,7 @@
     "supportNow": "Support Now",
     "techStackTitle": "Tech Evolution",
     "coreContributorsTitle": "Core Contributors",
+    "securityTitle": "Security",
     "designCreditsTitle": "Design",
     "ideationTitle": "Ideation",
     "communityContributorsTitle": "Community Contributors",
@@ -2280,5 +2245,12 @@
     "submit": "Submit",
     "communityExamples": "Community Examples",
     "userExample": "User example"
+  },
+  "selfHosting": {
+    "prerequisites": {
+      "nodeJs": "Node.js 24.x",
+      "postgresql": "PostgreSQL database",
+      "npm": "npm"
+    }
   }
 }

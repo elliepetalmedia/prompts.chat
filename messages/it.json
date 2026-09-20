@@ -27,6 +27,7 @@
     "close": "Chiudi",
     "all": "Tutti",
     "none": "Nessuno",
+    "ad": "Annuncio",
     "moreLines": "+{count} altre righe",
     "codeView": "Codice",
     "treeView": "Albero",
@@ -1029,45 +1030,8 @@
     }
   },
   "heroIndustries": {
-    "prefix": "o esplora per settore",
-    "clickToExplore": "Clicca per esplorare",
     "searchPlaceholder": "Cerca prompt...",
-    "teachers": "Insegnanti",
-    "developers": "Sviluppatori",
-    "marketers": "Marketer",
-    "designers": "Designer",
-    "writers": "Scrittori",
-    "analysts": "Analisti",
-    "entrepreneurs": "Imprenditori",
-    "researchers": "Ricercatori",
-    "students": "Studenti",
-    "consultants": "Consulenti",
-    "engineers": "Ingegneri",
-    "creators": "Creatori",
-    "lawyers": "Avvocati",
-    "doctors": "Medici",
-    "nurses": "Infermieri",
-    "accountants": "Contabili",
-    "salespeople": "Venditori",
-    "recruiters": "Recruiter",
-    "managers": "Manager",
-    "executives": "Dirigenti",
-    "freelancers": "Freelancer",
-    "photographers": "Fotografi",
-    "musicians": "Musicisti",
-    "artists": "Artisti",
-    "architects": "Architetti",
-    "scientists": "Scienziati",
-    "journalists": "Giornalisti",
-    "editors": "Redattori",
-    "translators": "Traduttori",
-    "coaches": "Coach",
-    "therapists": "Terapeuti",
-    "trainers": "Formatori",
-    "chefs": "Chef",
-    "realtors": "Agenti",
-    "investors": "Investitori",
-    "traders": "Trader"
+    "videoTitle": "GitHub Open Source Friday"
   },
   "notFound": {
     "title": "Pagina Non Trovata",
@@ -1488,6 +1452,7 @@
     "supportNow": "Supporta Ora",
     "techStackTitle": "Evoluzione Tecnologica",
     "coreContributorsTitle": "Contributori Principali",
+    "securityTitle": "Sicurezza",
     "designCreditsTitle": "Design",
     "ideationTitle": "Ideazione",
     "communityContributorsTitle": "Contributori della Community",
@@ -2282,5 +2247,12 @@
     "submit": "Invia",
     "communityExamples": "Esempi della Community",
     "userExample": "Esempio utente"
+  },
+  "selfHosting": {
+    "prerequisites": {
+      "nodeJs": "Node.js 24.x",
+      "postgresql": "PostgreSQL database",
+      "npm": "npm"
+    }
   }
 }

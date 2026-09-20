@@ -27,6 +27,7 @@
     "close": "סגור",
     "all": "הכל",
     "none": "ללא",
+    "ad": "מודעה",
     "moreLines": "+{count} שורות נוספות",
     "codeView": "קוד",
     "treeView": "עץ",
@@ -1050,45 +1051,8 @@
     }
   },
   "heroIndustries": {
-    "prefix": "או חקור לפי תעשייה",
-    "clickToExplore": "לחץ לחקירה",
     "searchPlaceholder": "חפש פרומפטים...",
-    "teachers": "מורים",
-    "developers": "מפתחים",
-    "marketers": "משווקים",
-    "designers": "מעצבים",
-    "writers": "סופרים",
-    "analysts": "אנליסטים",
-    "entrepreneurs": "יזמים",
-    "researchers": "חוקרים",
-    "students": "סטודנטים",
-    "consultants": "יועצים",
-    "engineers": "מהנדסים",
-    "creators": "יוצרים",
-    "lawyers": "עורכי דין",
-    "doctors": "רופאים",
-    "nurses": "אחיות",
-    "accountants": "רואי חשבון",
-    "salespeople": "אנשי מכירות",
-    "recruiters": "מגייסים",
-    "managers": "מנהלים",
-    "executives": "בכירים",
-    "freelancers": "פרילנסרים",
-    "photographers": "צלמים",
-    "musicians": "מוזיקאים",
-    "artists": "אמנים",
-    "architects": "אדריכלים",
-    "scientists": "מדענים",
-    "journalists": "עיתונאים",
-    "editors": "עורכים",
-    "translators": "מתרגמים",
-    "coaches": "מאמנים",
-    "therapists": "מטפלים",
-    "trainers": "מדריכים",
-    "chefs": "שפים",
-    "realtors": "סוכני נדל״ן",
-    "investors": "משקיעים",
-    "traders": "סוחרים"
+    "videoTitle": "GitHub Open Source Friday"
   },
   "promptBuilder": {
     "title": "סוכן בניית פרומפטים",
@@ -1488,6 +1452,7 @@
     "supportNow": "תמכו עכשיו",
     "techStackTitle": "התפתחות טכנולוגית",
     "coreContributorsTitle": "תורמים מרכזיים",
+    "securityTitle": "אבטחה",
     "designCreditsTitle": "עיצוב",
     "ideationTitle": "רעיונות",
     "communityContributorsTitle": "תורמי קהילה",
@@ -2260,5 +2225,12 @@
     "submit": "שלח",
     "communityExamples": "דוגמאות קהילה",
     "userExample": "דוגמת משתמש"
+  },
+  "selfHosting": {
+    "prerequisites": {
+      "nodeJs": "Node.js 24.x",
+      "postgresql": "PostgreSQL database",
+      "npm": "npm"
+    }
   }
 }

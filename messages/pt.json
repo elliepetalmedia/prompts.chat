@@ -27,6 +27,7 @@
     "close": "Fechar",
     "all": "Todos",
     "none": "Nenhum",
+    "ad": "Anúncio",
     "moreLines": "+{count} mais linhas",
     "codeView": "Código",
     "treeView": "Árvore",
@@ -1029,45 +1030,8 @@
     }
   },
   "heroIndustries": {
-    "prefix": "ou explore por setor",
-    "clickToExplore": "Clique para explorar",
     "searchPlaceholder": "Pesquisar prompts...",
-    "teachers": "Professores",
-    "developers": "Desenvolvedores",
-    "marketers": "Marketers",
-    "designers": "Designers",
-    "writers": "Escritores",
-    "analysts": "Analistas",
-    "entrepreneurs": "Empreendedores",
-    "researchers": "Pesquisadores",
-    "students": "Estudantes",
-    "consultants": "Consultores",
-    "engineers": "Engenheiros",
-    "creators": "Criadores",
-    "lawyers": "Advogados",
-    "doctors": "Médicos",
-    "nurses": "Enfermeiros",
-    "accountants": "Contadores",
-    "salespeople": "Vendedores",
-    "recruiters": "Recrutadores",
-    "managers": "Gerentes",
-    "executives": "Executivos",
-    "freelancers": "Freelancers",
-    "photographers": "Fotógrafos",
-    "musicians": "Músicos",
-    "artists": "Artistas",
-    "architects": "Arquitetos",
-    "scientists": "Cientistas",
-    "journalists": "Jornalistas",
-    "editors": "Editores",
-    "translators": "Tradutores",
-    "coaches": "Coaches",
-    "therapists": "Terapeutas",
-    "trainers": "Treinadores",
-    "chefs": "Chefs",
-    "realtors": "Corretores",
-    "investors": "Investidores",
-    "traders": "Traders"
+    "videoTitle": "GitHub Open Source Friday"
   },
   "notFound": {
     "title": "Página Não Encontrada",
@@ -1488,6 +1452,7 @@
     "supportNow": "Apoiar Agora",
     "techStackTitle": "Evolução Tecnológica",
     "coreContributorsTitle": "Contribuidores Principais",
+    "securityTitle": "Segurança",
     "designCreditsTitle": "Design",
     "ideationTitle": "Ideação",
     "communityContributorsTitle": "Contribuidores da Comunidade",
@@ -2278,5 +2243,12 @@
     "submit": "Enviar",
     "communityExamples": "Exemplos da Comunidade",
     "userExample": "Exemplo do usuário"
+  },
+  "selfHosting": {
+    "prerequisites": {
+      "nodeJs": "Node.js 24.x",
+      "postgresql": "PostgreSQL database",
+      "npm": "npm"
+    }
   }
 }

@@ -27,6 +27,7 @@
     "close": "Bağla",
     "all": "Hamısı",
     "none": "Heç biri",
+    "ad": "Reklam",
     "moreLines": "+{count} daha çox sətir",
     "codeView": "Kod",
     "treeView": "Ağac",
@@ -1024,45 +1025,8 @@
     }
   },
   "heroIndustries": {
-    "prefix": "və ya sahəyə görə kəşf edin",
-    "clickToExplore": "Kəşf etmək üçün klikləyin",
     "searchPlaceholder": "Promptları axtar...",
-    "teachers": "Müəllimlər",
-    "developers": "Tərtibatçılar",
-    "marketers": "Marketoloqlar",
-    "designers": "Dizaynerlər",
-    "writers": "Yazıçılar",
-    "analysts": "Analitiklər",
-    "entrepreneurs": "Sahibkarlar",
-    "researchers": "Tədqiqatçılar",
-    "students": "Tələbələr",
-    "consultants": "Məsləhətçilər",
-    "engineers": "Mühəndislər",
-    "creators": "Yaradıcılar",
-    "lawyers": "Vəkillər",
-    "doctors": "Həkimlər",
-    "nurses": "Tibb bacıları",
-    "accountants": "Mühasiblər",
-    "salespeople": "Satıcılar",
-    "recruiters": "İşə götürənlər",
-    "managers": "Menecerlər",
-    "executives": "İcraçılar",
-    "freelancers": "Frilanslər",
-    "photographers": "Fotoqraflar",
-    "musicians": "Musiqiçilər",
-    "artists": "Rəssamlar",
-    "architects": "Memarlar",
-    "scientists": "Alimlər",
-    "journalists": "Jurnalistlər",
-    "editors": "Redaktorlar",
-    "translators": "Tərcüməçilər",
-    "coaches": "Məşqçilər",
-    "therapists": "Terapevtlər",
-    "trainers": "Təlimçilər",
-    "chefs": "Aşpazlar",
-    "realtors": "Rieltorlar",
-    "investors": "İnvestorlar",
-    "traders": "Treyderlər"
+    "videoTitle": "GitHub Open Source Friday"
   },
   "promptBuilder": {
     "title": "Prompt Qurma Agenti",
@@ -1488,6 +1452,7 @@
     "supportNow": "İndi Dəstəklə",
     "techStackTitle": "Texnoloji Təkamül",
     "coreContributorsTitle": "Əsas Töhfəçilər",
+    "securityTitle": "Təhlükəsizlik",
     "designCreditsTitle": "Dizayn",
     "ideationTitle": "İdeya",
     "communityContributorsTitle": "İcma Töhfəçiləri",
@@ -2276,5 +2241,12 @@
     "submit": "Göndər",
     "communityExamples": "İcma Nümunələri",
     "userExample": "İstifadəçi nümunəsi"
+  },
+  "selfHosting": {
+    "prerequisites": {
+      "nodeJs": "Node.js 24.x",
+      "postgresql": "PostgreSQL database",
+      "npm": "npm"
+    }
   }
 }

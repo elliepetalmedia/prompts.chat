@@ -27,6 +27,7 @@
     "close": "Sluiten",
     "all": "Alles",
     "none": "Geen",
+    "ad": "Advertentie",
     "moreLines": "+{count} meer regels",
     "codeView": "Code",
     "treeView": "Boom",
@@ -1024,45 +1025,8 @@
     }
   },
   "heroIndustries": {
-    "prefix": "of verken per industrie",
-    "clickToExplore": "Klik om te verkennen",
     "searchPlaceholder": "Prompts zoeken...",
-    "teachers": "Docenten",
-    "developers": "Ontwikkelaars",
-    "marketers": "Marketeers",
-    "designers": "Ontwerpers",
-    "writers": "Schrijvers",
-    "analysts": "Analisten",
-    "entrepreneurs": "Ondernemers",
-    "researchers": "Onderzoekers",
-    "students": "Studenten",
-    "consultants": "Consultants",
-    "engineers": "Ingenieurs",
-    "creators": "Creators",
-    "lawyers": "Advocaten",
-    "doctors": "Artsen",
-    "nurses": "Verpleegkundigen",
-    "accountants": "Accountants",
-    "salespeople": "Verkopers",
-    "recruiters": "Recruiters",
-    "managers": "Managers",
-    "executives": "Directeuren",
-    "freelancers": "Freelancers",
-    "photographers": "Fotografen",
-    "musicians": "Muzikanten",
-    "artists": "Kunstenaars",
-    "architects": "Architecten",
-    "scientists": "Wetenschappers",
-    "journalists": "Journalisten",
-    "editors": "Redacteuren",
-    "translators": "Vertalers",
-    "coaches": "Coaches",
-    "therapists": "Therapeuten",
-    "trainers": "Trainers",
-    "chefs": "Chefs",
-    "realtors": "Makelaars",
-    "investors": "Investeerders",
-    "traders": "Handelaren"
+    "videoTitle": "GitHub Open Source Friday"
   },
   "promptBuilder": {
     "title": "Prompt Building Agent",
@@ -1488,6 +1452,7 @@
     "supportNow": "Steun nu",
     "techStackTitle": "Tech-evolutie",
     "coreContributorsTitle": "Kernbijdragers",
+    "securityTitle": "Beveiliging",
     "designCreditsTitle": "Ontwerp",
     "ideationTitle": "Ideeën",
     "communityContributorsTitle": "Community-bijdragers",
@@ -2267,5 +2232,12 @@
     "submit": "Versturen",
     "communityExamples": "Community Voorbeelden",
     "userExample": "Gebruikers Voorbeeld"
+  },
+  "selfHosting": {
+    "prerequisites": {
+      "nodeJs": "Node.js 24.x",
+      "postgresql": "PostgreSQL database",
+      "npm": "npm"
+    }
   }
 }

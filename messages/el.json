@@ -27,6 +27,7 @@
     "close": "Κλείσιμο",
     "all": "Όλα",
     "none": "Κανένα",
+    "ad": "Διαφήμιση",
     "moreLines": "+{count} επιπλέον γραμμές",
     "codeView": "Κώδικας",
     "treeView": "Δέντρο",
@@ -1050,45 +1051,8 @@
     }
   },
   "heroIndustries": {
-    "prefix": "ή εξερευνήστε ανά κλάδο",
-    "clickToExplore": "Κάντε κλικ για εξερεύνηση",
     "searchPlaceholder": "Αναζήτηση prompts...",
-    "teachers": "Εκπαιδευτικούς",
-    "developers": "Προγραμματιστές",
-    "marketers": "Μάρκετερ",
-    "designers": "Σχεδιαστές",
-    "writers": "Συγγραφείς",
-    "analysts": "Αναλυτές",
-    "entrepreneurs": "Επιχειρηματίες",
-    "researchers": "Ερευνητές",
-    "students": "Φοιτητές",
-    "consultants": "Συμβούλους",
-    "engineers": "Μηχανικούς",
-    "creators": "Δημιουργούς",
-    "lawyers": "Δικηγόρους",
-    "doctors": "Γιατρούς",
-    "nurses": "Νοσηλευτές",
-    "accountants": "Λογιστές",
-    "salespeople": "Πωλητές",
-    "recruiters": "Recruiters",
-    "managers": "Διευθυντές",
-    "executives": "Στελέχη",
-    "freelancers": "Ελεύθερους",
-    "photographers": "Φωτογράφους",
-    "musicians": "Μουσικούς",
-    "artists": "Καλλιτέχνες",
-    "architects": "Αρχιτέκτονες",
-    "scientists": "Επιστήμονες",
-    "journalists": "Δημοσιογράφους",
-    "editors": "Συντάκτες",
-    "translators": "Μεταφραστές",
-    "coaches": "Προπονητές",
-    "therapists": "Θεραπευτές",
-    "trainers": "Εκπαιδευτές",
-    "chefs": "Σεφ",
-    "realtors": "Μεσίτες",
-    "investors": "Επενδυτές",
-    "traders": "Traders"
+    "videoTitle": "GitHub Open Source Friday"
   },
   "promptBuilder": {
     "title": "Prompt Building Agent",
@@ -1488,6 +1452,7 @@
     "supportNow": "Υποστηρίξτε Τώρα",
     "techStackTitle": "Εξέλιξη Τεχνολογίας",
     "coreContributorsTitle": "Κύριοι Συνεισφέροντες",
+    "securityTitle": "Ασφάλεια",
     "designCreditsTitle": "Σχεδιασμός",
     "ideationTitle": "Ιδέες",
     "communityContributorsTitle": "Συνεισφέροντες Κοινότητας",
@@ -2267,5 +2232,12 @@
     "submit": "Υποβολή",
     "communityExamples": "Παραδείγματα Κοινότητας",
     "userExample": "Παράδειγμα Χρήστη"
+  },
+  "selfHosting": {
+    "prerequisites": {
+      "nodeJs": "Node.js 24.x",
+      "postgresql": "PostgreSQL database",
+      "npm": "npm"
+    }
   }
 }

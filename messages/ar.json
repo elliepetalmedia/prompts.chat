@@ -27,6 +27,7 @@
     "close": "إغلاق",
     "all": "الكل",
     "none": "لا شيء",
+    "ad": "إعلان",
     "moreLines": "+{count} سطر إضافي",
     "codeView": "كود",
     "treeView": "شجرة",
@@ -1029,45 +1030,8 @@
     }
   },
   "heroIndustries": {
-    "prefix": "أو استكشف حسب المجال",
-    "clickToExplore": "انقر للاستكشاف",
     "searchPlaceholder": "ابحث عن برومبتات...",
-    "teachers": "المعلمون",
-    "developers": "المطورون",
-    "marketers": "المسوقون",
-    "designers": "المصممون",
-    "writers": "الكتّاب",
-    "analysts": "المحللون",
-    "entrepreneurs": "رواد الأعمال",
-    "researchers": "الباحثون",
-    "students": "الطلاب",
-    "consultants": "المستشارون",
-    "engineers": "المهندسون",
-    "creators": "المبدعون",
-    "lawyers": "المحامون",
-    "doctors": "الأطباء",
-    "nurses": "الممرضون",
-    "accountants": "المحاسبون",
-    "salespeople": "المبيعات",
-    "recruiters": "التوظيف",
-    "managers": "المدراء",
-    "executives": "التنفيذيون",
-    "freelancers": "المستقلون",
-    "photographers": "المصورون",
-    "musicians": "الموسيقيون",
-    "artists": "الفنانون",
-    "architects": "المعماريون",
-    "scientists": "العلماء",
-    "journalists": "الصحفيون",
-    "editors": "المحررون",
-    "translators": "المترجمون",
-    "coaches": "المدربون",
-    "therapists": "المعالجون",
-    "trainers": "المدربون",
-    "chefs": "الطهاة",
-    "realtors": "العقاريون",
-    "investors": "المستثمرون",
-    "traders": "المتداولون"
+    "videoTitle": "GitHub Open Source Friday"
   },
   "notFound": {
     "title": "الصفحة غير موجودة",
@@ -1488,6 +1452,7 @@
     "supportNow": "ادعم الآن",
     "techStackTitle": "تطور التقنية",
     "coreContributorsTitle": "المساهمون الأساسيون",
+    "securityTitle": "الأمان",
     "designCreditsTitle": "التصميم",
     "ideationTitle": "الأفكار",
     "communityContributorsTitle": "مساهمو المجتمع",
@@ -2262,5 +2227,12 @@
     "submit": "إرسال",
     "communityExamples": "أمثلة المجتمع",
     "userExample": "مثال المستخدم"
+  },
+  "selfHosting": {
+    "prerequisites": {
+      "nodeJs": "Node.js 24.x",
+      "postgresql": "PostgreSQL database",
+      "npm": "npm"
+    }
   }
 }
